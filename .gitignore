@@ -1,0 +1,23 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires Office (présentation, fichiers Excel ouverts)
+~$*
